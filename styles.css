@@ -178,13 +178,12 @@ footer {
     display: block;
     margin: 0 auto;
 }
-#tema15.visible img {
-    width: 100%;
+#tema15 img {
+    width: 50%;
     height: auto;
     display: block;
-    transform: translateX(-20px);
+    margin: 0 auto;
 }
-
 
 
 #tema2.visible img {
